@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @libanali
 - 👀 I’m interested in programming and seeking a graduate role in sofware development. 
-- 🌱 I have just currently finished my masters in Data Science and hold a degree in Game Design. 
+- 🌱 I have just currently finished my masters in Data Science and hold a bachelors in Game Design. 
 - 📫 How to reach me - email: agaa_5@hotmail.com, mobile number: 07539129447
 
 <!---
